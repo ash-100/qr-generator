@@ -39,6 +39,7 @@ dependencies:
   qr_flutter: ^4.0.0              #//to generate QR
   url_launcher: ^6.0.3            #//to launch the link in a browser
   slide_to_confirm:
+  toggle_switch:
 
 dev_dependencies:
   flutter_test:
