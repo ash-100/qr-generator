@@ -4,7 +4,6 @@ import 'package:flutter/src/foundation/key.dart';
 import 'package:flutter/src/widgets/framework.dart';
 import 'package:qr_code/AES.dart';
 import 'package:qr_code/screens/generated_qr_screen.dart';
-import 'package:toggle_switch/toggle_switch.dart';
 
 class QRGenerator extends StatefulWidget {
   @override
